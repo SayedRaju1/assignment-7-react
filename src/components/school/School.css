@@ -1,0 +1,8 @@
+.school-container{
+    display: flex;
+}
+.course-container{
+    width: 70%;
+    margin: 10px;
+    padding: 10px;
+}

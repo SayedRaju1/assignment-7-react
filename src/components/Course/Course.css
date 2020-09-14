@@ -1,0 +1,18 @@
+
+.course-img{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+}
+.course-img img {
+    width: 100%;
+}
+.btn-success{
+    background-color: teal;
+}
+.btn-success:hover{
+    background-color: white;
+    color: black;
+    box-shadow:5px 5px 10px teal;
+    border: 0px;
+}

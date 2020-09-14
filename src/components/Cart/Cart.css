@@ -1,0 +1,9 @@
+.cart-area h2 {
+    background-color: teal;
+    color: white;
+    padding: 10px;
+}
+.cart-area {
+    border: 2px solid teal;
+    width: 300px;
+}
